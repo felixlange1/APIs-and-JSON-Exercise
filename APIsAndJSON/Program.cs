@@ -9,7 +9,8 @@ namespace APIsAndJSON
         
     static void Main(string[] args)
         {
-            var quoteGetter = new QuoteGetter();
+            HttpClient connection = new HttpClient();
+            var quoteGetter = new QuoteGetter(connection);
             
             for (int i = 0; i < 5; i++)
             {
