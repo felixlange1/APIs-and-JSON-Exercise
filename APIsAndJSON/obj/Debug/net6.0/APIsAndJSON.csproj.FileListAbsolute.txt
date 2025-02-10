@@ -15,3 +15,15 @@
 /Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.pdb
 /Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/APIsAndJSON.genruntimeconfig.cache
 /Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/obj/Debug/net6.0/ref/APIsAndJSON.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.Configuration.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Json.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/System.IO.Pipelines.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/felixlange/Desktop/Code/repos/APIs-and-JSON-Exercise/APIsAndJSON/bin/Debug/net6.0/System.Text.Json.dll
